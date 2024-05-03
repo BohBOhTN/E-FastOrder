@@ -27,8 +27,10 @@ public partial class EfastOrderDbContext : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder);
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
 
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

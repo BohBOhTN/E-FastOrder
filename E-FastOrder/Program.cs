@@ -1,7 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using E_FastOrder.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<EfastOrderDbContext>(options => 
+options.UseSqlServer(builder.Configuration.GetConnectionString("connection-db")));
+
 
 var app = builder.Build();
 
