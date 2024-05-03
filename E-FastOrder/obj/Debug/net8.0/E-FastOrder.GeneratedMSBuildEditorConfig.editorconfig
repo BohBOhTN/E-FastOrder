@@ -26,12 +26,112 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\baha9\OneDrive - North American Private University\Bureau\Challenger\c#\E-FastOrder\E-FastOrder
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/FavoriteMenuItems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdGVNZW51SXRlbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/FavoriteMenuItems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdGVNZW51SXRlbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/FavoriteMenuItems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdGVNZW51SXRlbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/FavoriteMenuItems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdGVNZW51SXRlbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/FavoriteMenuItems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdGVNZW51SXRlbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/MenuItems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/MenuItems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/MenuItems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/MenuItems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/MenuItems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudUl0ZW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/OrderDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/OrderDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/OrderDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/OrderDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/OrderDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/baha9/OneDrive - North American Private University/Bureau/Challenger/c\#/E-FastOrder/E-FastOrder/Views/Shared/Error.cshtml]
